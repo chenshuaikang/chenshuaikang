@@ -24,11 +24,11 @@
     <a href="https://wakatime.com/@chenshuaikang"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
-</div>
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 ![亮色](https://raw.githubusercontent.com/chenshuaikang/chenshuaikang/output/github-contribution-grid-snake.svg)
 
-
+</div>
 ---
 
 #  🙋 Hello
