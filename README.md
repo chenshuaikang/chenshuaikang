@@ -27,8 +27,6 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-
-![暗色](https://raw.githubusercontent.com/chenshuaikang/chenshuaikang/output/github-contribution-grid-snake-dark.svg)
 ![亮色](https://raw.githubusercontent.com/chenshuaikang/chenshuaikang/output/github-contribution-grid-snake.svg)
 
 
@@ -49,9 +47,9 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;希望能与你在比特之海的繁星之下相见！</p>
 
-<p>&emsp;&emsp;<strong>坚硬的代替了那些柔软的，清晰的取代了那些模糊的。那些滑溜溜和黏糊糊的东西，带你来到了世界的角落。
+<p>&emsp;&emsp;<strong>坚硬的代替了那些柔软的，清晰的取代了那些模糊的。那些滑溜溜和黏糊糊的东西，带你来到了世界的角落。</strong></p>
 
-How lucky to meet you!.</strong></p>
+<p>&emsp;&emsp;<strong>How lucky to meet you!.</strong></p>
 
 </td></tr>
 
