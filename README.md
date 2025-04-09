@@ -3,7 +3,6 @@
   <div>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);埋骨何须桑梓地，人生无处不青山。&center=true&size=27" />
   </div>
-</div>
 
 <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -25,7 +24,7 @@
     <a href="https://wakatime.com/@chenshuaikang"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
-
+</div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 ![亮色](https://raw.githubusercontent.com/chenshuaikang/chenshuaikang/output/github-contribution-grid-snake.svg)
 
