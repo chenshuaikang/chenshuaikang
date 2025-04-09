@@ -137,8 +137,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
-</table>
-
 
  Last Updated on 09/04/2025 12:38:49 UTC
 <!--END_SECTION:waka-->
