@@ -53,7 +53,7 @@
 
 ### About My Github
 <div align="center">
-  <table style="width:100%;">
+  <table >
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
