@@ -17,38 +17,28 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-570.0%20thousand%20lines%20of%20code-blue)
 
-> 📦 22.8 kB Used in GitHub's Storage 
- > 
-> 🏆 8 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-🌆 Daytime                59 commits          ████████████████░░░░░░░░░   62.77 % 
-🌃 Evening                20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌞 Morning                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+🌆 Daytime                59 commits          ████████████████░░░░░░░░░   62.11 % 
+🌃 Evening                21 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   28 commits          ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Tuesday                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Wednesday                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Friday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Monday                   28 commits          ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Tuesday                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Wednesday                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Friday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 ```
 
 
@@ -82,10 +72,6 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/chenshuaikang/chenshuaikang/main/assets/bar_graph.png)
-
-
- Last Updated on 09/04/2025 12:09:48 UTC
+ Last Updated on 09/04/2025 12:21:34 UTC
 <!--END_SECTION:waka-->
