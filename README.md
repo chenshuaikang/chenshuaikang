@@ -28,11 +28,8 @@
 
 </div>
 
+  ---
 #  🙋 Hello
-
-<table>
-  
-<tr><td>
 
 ### 🤺 About Me
 
@@ -47,10 +44,8 @@
 
 <p>&emsp;&emsp;<strong>How lucky to meet you!.</strong></p>
 
-</td></tr>
-
-<tr><td>
-
+  ---
+  
 ### About My Github
 <div align="center">
   <table >
@@ -72,7 +67,9 @@
     </tr>
   </table>
 </div>
- 
+
+   ---
+   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
