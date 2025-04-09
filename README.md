@@ -20,7 +20,6 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=chenshuaikang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@chenshuaikang"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
 
@@ -51,6 +50,28 @@
 </td></tr>
 
 <tr><td>
+
+### About My Github
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=chenshuaikang&show_icons=true" />
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenshuaikang&layout=compact" />
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=chenshuaikang&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -116,7 +137,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
-
+</table>
 
 
  Last Updated on 09/04/2025 12:38:49 UTC
