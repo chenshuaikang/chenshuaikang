@@ -20,7 +20,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=chenshuaikang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-
+    <a href="https://wakatime.com/@chenshuaikang"><img src="https://wakatime.com/badge/user/73064b10-7cf0-4df8-8677-d066f881191c.svg" /></a>
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
