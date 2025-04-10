@@ -71,13 +71,15 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 22.8 kB Used in GitHub's Storage 
+> 📦 22.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,21 +90,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                59 commits          ███████████████░░░░░░░░░░   61.46 % 
-🌃 Evening                22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌞 Morning                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌆 Daytime                59 commits          ██████████████░░░░░░░░░░░   54.63 % 
+🌃 Evening                34 commits          ████████░░░░░░░░░░░░░░░░░   31.48 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   28 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Tuesday                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Friday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Monday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Tuesday                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 ```
 
 
@@ -112,16 +114,23 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 13 mins             ████████████░░░░░░░░░░░░░   47.04 % 
+Java                     12 mins             ███████████░░░░░░░░░░░░░░   43.99 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             ██████████████░░░░░░░░░░░   56.01 % 
+IntelliJ IDEA            12 mins             ███████████░░░░░░░░░░░░░░   43.99 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chenshuaikang            13 mins             ████████████░░░░░░░░░░░░░   47.04 % 
+wechat-push              10 mins             █████████░░░░░░░░░░░░░░░░   36.50 % 
+yiren-vue                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+yiren-java               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+lease-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -135,5 +144,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 09/04/2025 12:38:49 UTC
+
+
+ Last Updated on 10/04/2025 02:58:10 UTC
 <!--END_SECTION:waka-->
