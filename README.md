@@ -71,15 +71,13 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 22.9 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2025
+> 📦 22.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,23 +112,24 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 mins             ████████████░░░░░░░░░░░░░   47.04 % 
-Java                     12 mins             ███████████░░░░░░░░░░░░░░   43.99 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Java                     25 mins             ████████████░░░░░░░░░░░░░   46.61 % 
+Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Vue.js                   12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 🔥 Editors: 
-VS Code                  15 mins             ██████████████░░░░░░░░░░░   56.01 % 
-IntelliJ IDEA            12 mins             ███████████░░░░░░░░░░░░░░   43.99 % 
+VS Code                  28 mins             █████████████░░░░░░░░░░░░   53.39 % 
+IntelliJ IDEA            25 mins             ████████████░░░░░░░░░░░░░   46.61 % 
 
 🐱‍💻 Projects: 
-chenshuaikang            13 mins             ████████████░░░░░░░░░░░░░   47.04 % 
-wechat-push              10 mins             █████████░░░░░░░░░░░░░░░░   36.50 % 
-yiren-vue                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-yiren-java               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-lease-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+yiren-vue                15 mins             ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+yiren-java               15 mins             ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+chenshuaikang            13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+wechat-push              10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+lease-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -146,5 +145,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2025 02:58:10 UTC
+ Last Updated on 11/04/2025 02:58:46 UTC
 <!--END_SECTION:waka-->
