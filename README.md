@@ -71,38 +71,38 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 22.8 kB Used in GitHub's Storage 
+> 📦 23.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-🌆 Daytime                59 commits          ██████████████░░░░░░░░░░░   54.63 % 
-🌃 Evening                34 commits          ████████░░░░░░░░░░░░░░░░░   31.48 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+🌞 Morning                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+🌆 Daytime                59 commits          █████████████░░░░░░░░░░░░   53.64 % 
+🌃 Evening                34 commits          ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Tuesday                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Monday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -112,38 +112,39 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     25 mins             ████████████░░░░░░░░░░░░░   46.61 % 
-Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Vue.js                   12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Java                     2 hrs 16 mins       ████████████████████░░░░░   81.92 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Vue.js                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████░░░░░░░░░░░░   53.39 % 
-IntelliJ IDEA            25 mins             ████████████░░░░░░░░░░░░░   46.61 % 
+IntelliJ IDEA            2 hrs 17 mins       █████████████████████░░░░   82.58 % 
+VS Code                  28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 
 🐱‍💻 Projects: 
-yiren-vue                15 mins             ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-yiren-java               15 mins             ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-chenshuaikang            13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-wechat-push              10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-lease-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+yiren-java               1 hr 59 mins        ██████████████████░░░░░░░   71.64 % 
+yiren-vue                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+chenshuaikang            13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+wechat-push              10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+lease-java               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Vue** 
 
 ```text
-Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Vue                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Vue                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Java                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 14/04/2025 03:03:51 UTC
+ Last Updated on 15/04/2025 03:02:28 UTC
 <!--END_SECTION:waka-->
