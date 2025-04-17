@@ -79,8 +79,6 @@
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -114,25 +112,23 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 3 mins        ████████████████████░░░░░   79.59 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Vue.js                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Java                     2 hrs 51 mins       █████████████████████░░░░   84.56 % 
+Vue.js                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 14 mins       █████████████████████░░░░   84.33 % 
-VS Code                  36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+IntelliJ IDEA            3 hrs 2 mins        ██████████████████████░░░   89.94 % 
+VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 
 🐱‍💻 Projects: 
-yiren-java               2 hrs 55 mins       ███████████████████░░░░░░   76.43 % 
-yiren-vue                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-chenshuaikang            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-wechat-push              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-lease-java               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+yiren-java               2 hrs 54 mins       ██████████████████████░░░   86.01 % 
+yiren-vue                20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+lease-java               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 💻 Operating System: 
-Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -148,5 +144,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2025 03:01:48 UTC
+ Last Updated on 17/04/2025 03:00:17 UTC
 <!--END_SECTION:waka-->
