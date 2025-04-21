@@ -114,23 +114,23 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 37 mins       ██████████████████████░░░   89.21 % 
-XML                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Java                     2 hrs 45 mins       ██████████████████████░░░   89.57 % 
+XML                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 49 mins       ████████████████████████░   96.00 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+IntelliJ IDEA            2 hrs 57 mins       ████████████████████████░   96.16 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🐱‍💻 Projects: 
-yiren-java               2 hrs 41 mins       ███████████████████████░░   91.50 % 
-lease-java               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-yiren-vue                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+yiren-java               2 hrs 49 mins       ███████████████████████░░   91.84 % 
+lease-java               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+yiren-vue                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
-Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -146,5 +146,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2025 03:04:52 UTC
+ Last Updated on 21/04/2025 03:06:37 UTC
 <!--END_SECTION:waka-->
