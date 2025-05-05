@@ -114,23 +114,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Git                      10 mins             █████████████████░░░░░░░░   69.67 % 
-Vue.js                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   99.27 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yiren                    12 mins             ██████████████████████░░░   87.68 % 
-yiren-vue                1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-yiren-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+yiren-java               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -146,5 +139,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2025 03:13:50 UTC
+ Last Updated on 05/05/2025 03:09:51 UTC
 <!--END_SECTION:waka-->
