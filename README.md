@@ -114,19 +114,19 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 37 mins        ████████████████░░░░░░░░░   63.14 % 
-YAML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Vue.js                   1 hr 38 mins        ████████████████░░░░░░░░░   63.13 % 
+YAML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        ████████████████░░░░░░░░░   64.80 % 
-IntelliJ IDEA            54 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
+VS Code                  1 hr 40 mins        ████████████████░░░░░░░░░   64.85 % 
+IntelliJ IDEA            54 mins             █████████░░░░░░░░░░░░░░░░   35.15 % 
 
 🐱‍💻 Projects: 
-yiren                    1 hr 40 mins        ████████████████░░░░░░░░░   64.80 % 
-yiren-java               54 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
+yiren                    1 hr 40 mins        ████████████████░░░░░░░░░   64.85 % 
+yiren-java               54 mins             █████████░░░░░░░░░░░░░░░░   35.15 % 
 
 💻 Operating System: 
 Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
@@ -145,5 +145,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2025 03:12:45 UTC
+ Last Updated on 07/06/2025 03:10:27 UTC
 <!--END_SECTION:waka-->
