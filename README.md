@@ -114,22 +114,22 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 24 mins        ███████████████░░░░░░░░░░   60.86 % 
-YAML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     23 mins             █████████████░░░░░░░░░░░░   53.60 % 
+YAML                     20 mins             ███████████░░░░░░░░░░░░░░   45.85 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        ███████████████░░░░░░░░░░   60.93 % 
-IntelliJ IDEA            54 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
+IntelliJ IDEA            44 mins             █████████████████████████   99.45 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-yiren                    1 hr 25 mins        ███████████████░░░░░░░░░░   60.93 % 
-yiren-java               54 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
+yiren-java               44 mins             █████████████████████████   99.45 % 
+yiren                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -145,5 +145,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 03:19:16 UTC
+ Last Updated on 10/06/2025 03:15:42 UTC
 <!--END_SECTION:waka-->
