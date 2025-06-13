@@ -71,13 +71,15 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 23.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,5 +146,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 03:13:02 UTC
+ Last Updated on 13/06/2025 03:14:46 UTC
 <!--END_SECTION:waka-->
