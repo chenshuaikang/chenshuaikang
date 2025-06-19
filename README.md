@@ -79,8 +79,6 @@
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -114,23 +112,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-XML                      12 mins             ███████████░░░░░░░░░░░░░░   43.91 % 
-JavaScript               11 mins             ██████████░░░░░░░░░░░░░░░   39.65 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            16 mins             ███████████████░░░░░░░░░░   59.48 % 
-VS Code                  11 mins             ██████████░░░░░░░░░░░░░░░   40.52 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lease-java               16 mins             ███████████████░░░░░░░░░░   59.43 % 
-lease-vue                11 mins             ██████████░░░░░░░░░░░░░░░   40.52 % 
-yiren-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -146,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 03:13:58 UTC
+ Last Updated on 19/06/2025 03:14:30 UTC
 <!--END_SECTION:waka-->
