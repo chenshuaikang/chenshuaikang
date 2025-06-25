@@ -79,6 +79,8 @@
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -112,16 +114,23 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     0 secs              █████████████████████████   100.00 % 
+Java                     1 hr 13 mins        ████████████░░░░░░░░░░░░░   49.49 % 
+Vue.js                   51 mins             █████████░░░░░░░░░░░░░░░░   34.55 % 
+YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 35 mins        ████████████████░░░░░░░░░   64.57 % 
+VS Code                  52 mins             █████████░░░░░░░░░░░░░░░░   35.43 % 
 
 🐱‍💻 Projects: 
-yiren-java               0 secs              █████████████████████████   100.00 % 
+yiren-java               1 hr 35 mins        ████████████████░░░░░░░░░   64.57 % 
+yiren                    51 mins             █████████░░░░░░░░░░░░░░░░   35.01 % 
+yiren-vue                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -137,5 +146,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 03:15:47 UTC
+ Last Updated on 25/06/2025 03:16:42 UTC
 <!--END_SECTION:waka-->
