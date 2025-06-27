@@ -71,7 +71,7 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -115,17 +115,17 @@ Sunday                   11 commits          ██░░░░░░░░░�
 
 💬 Programming Languages: 
 Java                     1 hr 19 mins        ████████████░░░░░░░░░░░░░   48.72 % 
-Vue.js                   59 mins             █████████░░░░░░░░░░░░░░░░   36.42 % 
+Vue.js                   59 mins             █████████░░░░░░░░░░░░░░░░   36.41 % 
 YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 42 mins        ████████████████░░░░░░░░░   62.78 % 
-VS Code                  1 hr                █████████░░░░░░░░░░░░░░░░   37.22 % 
+IntelliJ IDEA            1 hr 42 mins        ████████████████░░░░░░░░░   62.79 % 
+VS Code                  1 hr                █████████░░░░░░░░░░░░░░░░   37.21 % 
 
 🐱‍💻 Projects: 
-yiren-java               1 hr 42 mins        ████████████████░░░░░░░░░   62.78 % 
+yiren-java               1 hr 42 mins        ████████████████░░░░░░░░░   62.79 % 
 yiren                    1 hr                █████████░░░░░░░░░░░░░░░░   36.83 % 
 yiren-vue                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
@@ -146,5 +146,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2025 03:15:08 UTC
+ Last Updated on 27/06/2025 03:16:21 UTC
 <!--END_SECTION:waka-->
