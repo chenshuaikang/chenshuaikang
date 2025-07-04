@@ -112,20 +112,20 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     58 mins             ███████████████████░░░░░░   77.74 % 
-JavaScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Java                     58 mins             ███████████████████░░░░░░   77.57 % 
+JavaScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 3 mins         █████████████████████░░░░   83.90 % 
-VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+IntelliJ IDEA            1 hr 2 mins         █████████████████████░░░░   83.77 % 
+VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 
 🐱‍💻 Projects: 
-yiren-java               1 hr 3 mins         █████████████████████░░░░   83.90 % 
-yiren-vue                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+yiren-java               1 hr 2 mins         █████████████████████░░░░   83.77 % 
+yiren-vue                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -141,5 +141,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2025 03:17:13 UTC
+ Last Updated on 04/07/2025 03:15:19 UTC
 <!--END_SECTION:waka-->
