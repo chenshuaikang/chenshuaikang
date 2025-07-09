@@ -79,8 +79,6 @@
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -114,17 +112,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     2 mins              █████████████████████████   98.93 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yiren-java               2 mins              █████████████████████████   100.00 % 
+yiren-java               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -140,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2025 03:16:44 UTC
+ Last Updated on 09/07/2025 03:19:02 UTC
 <!--END_SECTION:waka-->
