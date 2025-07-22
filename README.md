@@ -71,13 +71,15 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 23.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,16 +114,22 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     16 mins             █████████████░░░░░░░░░░░░   50.89 % 
+XML                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Springboot_v2            28 mins             ██████████████████████░░░   86.71 % 
+monitor                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -137,5 +145,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2025 03:40:55 UTC
+ Last Updated on 22/07/2025 03:26:06 UTC
 <!--END_SECTION:waka-->
