@@ -79,6 +79,8 @@
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -112,22 +114,23 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     16 mins             █████████████░░░░░░░░░░░░   50.89 % 
-XML                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+YAML                     30 mins             ███████████████░░░░░░░░░░   61.67 % 
+XML                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Java                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-IntelliJ IDEA            32 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Springboot_v2            28 mins             ██████████████████████░░░   86.71 % 
-monitor                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Springboot_v2            30 mins             ███████████████░░░░░░░░░░   60.57 % 
+lease-java               15 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+monitor                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -143,5 +146,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2025 03:25:57 UTC
+ Last Updated on 25/07/2025 03:26:04 UTC
 <!--END_SECTION:waka-->
