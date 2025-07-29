@@ -79,8 +79,6 @@
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -114,23 +112,21 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     30 mins             ███████████████░░░░░░░░░░   61.67 % 
-XML                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Java                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+YAML                     14 mins             ████████████████████░░░░░   81.81 % 
+Java                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            49 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Springboot_v2            30 mins             ███████████████░░░░░░░░░░   60.57 % 
-lease-java               15 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-monitor                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+lease-java               15 mins             ██████████████████████░░░   88.29 % 
+Springboot_v2            2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -146,5 +142,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 03:42:32 UTC
+ Last Updated on 29/07/2025 03:45:53 UTC
 <!--END_SECTION:waka-->
