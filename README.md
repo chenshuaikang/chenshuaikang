@@ -71,13 +71,13 @@
    ---
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2037%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 23.6 kB Used in GitHub's Storage 
- > 
-> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,21 +112,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     14 mins             ████████████████████░░░░░   81.81 % 
-Java                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lease-java               15 mins             ██████████████████████░░░   88.29 % 
-Springboot_v2            2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Springboot_v2            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -142,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 03:38:13 UTC
+ Last Updated on 01/08/2025 03:51:48 UTC
 <!--END_SECTION:waka-->
