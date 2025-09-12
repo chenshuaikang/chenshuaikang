@@ -79,6 +79,8 @@
 
 > 📦 23.6 kB Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -112,16 +114,24 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      45 mins             ████████░░░░░░░░░░░░░░░░░   32.83 % 
+Vue.js                   42 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
+Java                     33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 25 mins        ███████████████░░░░░░░░░░   61.05 % 
+VS Code                  54 mins             ██████████░░░░░░░░░░░░░░░   38.95 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yiren-java               1 hr 19 mins        ██████████████░░░░░░░░░░░   57.02 % 
+yiren-vue                44 mins             ████████░░░░░░░░░░░░░░░░░   31.99 % 
+yiren                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+lease-java               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -137,5 +147,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 02:56:52 UTC
+ Last Updated on 12/09/2025 02:51:36 UTC
 <!--END_SECTION:waka-->
