@@ -71,7 +71,7 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -114,16 +114,17 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     21 mins             ████████████████████████░   94.46 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HivisionIDPhotos-wechat-w22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -139,5 +140,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2025 02:54:38 UTC
+ Last Updated on 01/10/2025 03:07:43 UTC
 <!--END_SECTION:waka-->
