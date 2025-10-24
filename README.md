@@ -71,7 +71,7 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,21 +114,21 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     24 mins             ██████████████░░░░░░░░░░░   57.26 % 
-Java                     18 mins             ███████████░░░░░░░░░░░░░░   42.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+YAML                     4 mins              ████████████████████░░░░░   79.60 % 
+Java                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            43 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HivisionIDPhotos-wechat-w38 mins             ██████████████████████░░░   88.51 % 
-Springboot_v2            4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Springboot_v2            4 mins              ████████████████████████░   96.36 % 
+HivisionIDPhotos-wechat-w0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -144,5 +144,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2025 03:00:14 UTC
+ Last Updated on 24/10/2025 02:57:15 UTC
 <!--END_SECTION:waka-->
