@@ -114,21 +114,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     4 mins              ████████████████████░░░░░   79.60 % 
-Java                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Springboot_v2            4 mins              ████████████████████████░   96.36 % 
-HivisionIDPhotos-wechat-w0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -144,5 +139,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2025 03:12:08 UTC
+ Last Updated on 30/10/2025 03:07:45 UTC
 <!--END_SECTION:waka-->
