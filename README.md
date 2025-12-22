@@ -114,17 +114,18 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     0 secs              ████████████████░░░░░░░░░   65.34 % 
-Java                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+YAML                     0 secs              ████████████████░░░░░░░░░   64.38 % 
+Java                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
 IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Springboot_v2            0 secs              █████████████████████████   100.00 % 
+Springboot_v2            0 secs              █████████████████████████   98.53 % 
+yiren-java               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
 Mac                      0 secs              █████████████████████████   100.00 % 
@@ -143,5 +144,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2025 03:25:29 UTC
+ Last Updated on 22/12/2025 03:28:33 UTC
 <!--END_SECTION:waka-->
