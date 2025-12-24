@@ -71,7 +71,7 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,21 +114,21 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     15 mins             ██████████░░░░░░░░░░░░░░░   41.52 % 
-XML                      15 mins             ██████████░░░░░░░░░░░░░░░   40.71 % 
-Java                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     2 hrs 12 mins       ████████████████████░░░░░   79.18 % 
+XML                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            36 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yiren-java               36 mins             █████████████████████████   99.68 % 
-Springboot_v2            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+yiren-java               2 hrs 47 mins       █████████████████████████   99.93 % 
+Springboot_v2            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -144,5 +144,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2025 03:22:48 UTC
+ Last Updated on 24/12/2025 03:20:16 UTC
 <!--END_SECTION:waka-->
