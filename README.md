@@ -114,22 +114,24 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 45 mins       ███████████████░░░░░░░░░░   61.40 % 
-XML                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-YAML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Vue.js                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     2 hrs 52 mins       ███████████████░░░░░░░░░░   60.90 % 
+XML                      52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+YAML                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Vue.js                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 18 mins       ████████████████████████░   96.12 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+IntelliJ IDEA            4 hrs 32 mins       ████████████████████████░   96.31 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🐱‍💻 Projects: 
-yiren-java               4 hrs 18 mins       ████████████████████████░   96.12 % 
-yiren-vue                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+yiren-java               4 hrs 25 mins       ███████████████████████░░   93.99 % 
+yiren-vue                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+removewatermark-parent   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -145,5 +147,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 03:19:25 UTC
+ Last Updated on 28/12/2025 03:43:28 UTC
 <!--END_SECTION:waka-->
