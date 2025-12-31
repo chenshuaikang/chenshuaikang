@@ -114,24 +114,24 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 45 mins       █████████████████░░░░░░░░   67.46 % 
-XML                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Vue.js                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Java                     39 mins             █████████░░░░░░░░░░░░░░░░   34.50 % 
+XML                      33 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+YAML                     31 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+Vue.js                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 55 mins       ████████████████████████░   95.75 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+IntelliJ IDEA            1 hr 44 mins        ███████████████████████░░   90.94 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 🐱‍💻 Projects: 
-yiren-java               3 hrs 48 mins       ███████████████████████░░   93.08 % 
-yiren-vue                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-removewatermark-parent   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+yiren-java               1 hr 38 mins        █████████████████████░░░░   85.25 % 
+yiren-vue                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+removewatermark-parent   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -147,5 +147,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 03:23:54 UTC
+ Last Updated on 31/12/2025 03:23:22 UTC
 <!--END_SECTION:waka-->
