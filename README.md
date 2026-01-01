@@ -79,7 +79,7 @@
 
 > 📦 23.7 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,24 +114,22 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     39 mins             █████████░░░░░░░░░░░░░░░░   34.50 % 
-XML                      33 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-YAML                     31 mins             ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-Vue.js                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Java                     6 mins              █████████████░░░░░░░░░░░░   51.02 % 
+XML                      4 mins              ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+YAML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 44 mins        ███████████████████████░░   90.94 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yiren-java               1 hr 38 mins        █████████████████████░░░░   85.25 % 
-yiren-vue                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-removewatermark-parent   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+yiren-java               7 mins              █████████████░░░░░░░░░░░░   51.84 % 
+removewatermark-parent   6 mins              ████████████░░░░░░░░░░░░░   46.29 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -147,5 +145,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 03:23:22 UTC
+ Last Updated on 01/01/2026 03:46:24 UTC
 <!--END_SECTION:waka-->
