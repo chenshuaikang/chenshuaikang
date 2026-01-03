@@ -71,8 +71,6 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -87,51 +85,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-🌆 Daytime                62 commits          █████████████░░░░░░░░░░░░   52.10 % 
-🌃 Evening                38 commits          ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Tuesday                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     6 mins              █████████████░░░░░░░░░░░░   51.02 % 
-XML                      4 mins              ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-YAML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-🔥 Editors: 
-IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-yiren-java               7 mins              █████████████░░░░░░░░░░░░   51.84 % 
-removewatermark-parent   6 mins              ████████████░░░░░░░░░░░░░   46.29 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Vue** 
 
 ```text
@@ -145,5 +98,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 03:26:44 UTC
+ Last Updated on 03/01/2026 03:18:33 UTC
 <!--END_SECTION:waka-->
