@@ -114,16 +114,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-removewatermark-parent   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -139,5 +139,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2026 03:44:51 UTC
+ Last Updated on 13/01/2026 03:24:36 UTC
 <!--END_SECTION:waka-->
