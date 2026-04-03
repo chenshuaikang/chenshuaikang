@@ -77,7 +77,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 23.7 kB Used in GitHub's Storage 
+> 📦 67.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -85,26 +85,26 @@
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-🌆 Daytime                62 commits          █████████████░░░░░░░░░░░░   52.10 % 
-🌃 Evening                38 commits          ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌆 Daytime                63 commits          █████████████░░░░░░░░░░░░   52.07 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   32.23 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Tuesday                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Tuesday                  19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -114,34 +114,36 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 mins              ████████████████████████░   95.16 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Vue.js                   2 mins              ████████████░░░░░░░░░░░░░   49.33 % 
+Java                     2 mins              ████████████░░░░░░░░░░░░░   48.22 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            2 mins              █████████████░░░░░░░░░░░░   50.67 % 
+VS Code                  2 mins              ████████████░░░░░░░░░░░░░   49.33 % 
 
 🐱‍💻 Projects: 
-HivisionIDPhotos-wechat-w2 mins              █████████████████████████   100.00 % 
+HivisionIDPhotos-wechat-w2 mins              █████████████░░░░░░░░░░░░   50.67 % 
+yiren-vue                2 mins              ████████████░░░░░░░░░░░░░   49.33 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Vue                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Java                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 02/04/2026 04:26:38 UTC
+ Last Updated on 03/04/2026 04:26:57 UTC
 <!--END_SECTION:waka-->
