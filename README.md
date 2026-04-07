@@ -114,22 +114,19 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   2 mins              ████████████░░░░░░░░░░░░░   49.33 % 
-Java                     2 mins              ████████████░░░░░░░░░░░░░   48.22 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Vue.js                   2 mins              █████████████████████████   99.97 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████░░░░░░░░░░░░   50.67 % 
-VS Code                  2 mins              ████████████░░░░░░░░░░░░░   49.33 % 
+VS Code                  2 mins              █████████████████████████   99.97 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-HivisionIDPhotos-wechat-w2 mins              █████████████░░░░░░░░░░░░   50.67 % 
-yiren-vue                2 mins              ████████████░░░░░░░░░░░░░   49.33 % 
+yiren-vue                2 mins              █████████████████████████   99.97 % 
+HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,5 +142,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2026 04:41:34 UTC
+ Last Updated on 07/04/2026 04:30:37 UTC
 <!--END_SECTION:waka-->
