@@ -114,19 +114,17 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   2 mins              █████████████████████████   99.97 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 0 secs              ███████████████████░░░░░░   77.25 % 
+Java                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   99.97 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yiren-vue                2 mins              █████████████████████████   99.97 % 
-HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+HivisionIDPhotos-wechat-w0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +140,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 04:30:21 UTC
+ Last Updated on 10/04/2026 04:43:47 UTC
 <!--END_SECTION:waka-->
