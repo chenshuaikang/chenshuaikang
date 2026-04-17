@@ -114,17 +114,16 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              ███████████████████░░░░░░   77.25 % 
-Java                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HivisionIDPhotos-wechat-w0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,5 +139,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 04:48:06 UTC
+ Last Updated on 17/04/2026 04:46:06 UTC
 <!--END_SECTION:waka-->
