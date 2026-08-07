@@ -71,10 +71,6 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%208%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -147,5 +143,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 05:12:14 UTC
+ Last Updated on 07/08/2026 04:22:01 UTC
 <!--END_SECTION:waka-->
