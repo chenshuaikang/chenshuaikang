@@ -116,40 +116,22 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 mins              ████████████████████████░   95.25 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HivisionIDPhotos-wechat-w6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (99.98%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 17 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 397 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -165,5 +147,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 02:58:50 UTC
+ Last Updated on 27/08/2026 12:15:59 UTC
 <!--END_SECTION:waka-->
