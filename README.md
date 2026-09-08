@@ -116,22 +116,41 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 mins              ███████████████████████░░   91.42 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+workspace                6 mins              ███████████████████████░░   91.42 % 
+HivisionIDPhotos-wechat-w0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 396 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,5 +166,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 06:55:05 UTC
+ Last Updated on 08/09/2026 06:50:17 UTC
 <!--END_SECTION:waka-->
