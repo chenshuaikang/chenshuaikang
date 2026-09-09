@@ -71,9 +71,9 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -116,27 +116,27 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 mins              ███████████████████████░░   91.42 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    17 mins             ████████████████████████░   96.82 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                6 mins              ███████████████████████░░   91.42 % 
-HivisionIDPhotos-wechat-w0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+workspace                17 mins             ████████████████████████░   96.82 % 
+HivisionIDPhotos-wechat-w0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (100.0%)
+⏱ AI Coding Time: 17 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -144,12 +144,12 @@ Mac                      6 mins              ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 15 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 396 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 397 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -166,5 +166,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 06:50:17 UTC
+ Last Updated on 09/09/2026 06:59:14 UTC
 <!--END_SECTION:waka-->
