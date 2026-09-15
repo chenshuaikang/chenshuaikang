@@ -116,28 +116,26 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 mins             ███████████████░░░░░░░░░░   61.47 % 
-Java                     12 mins             ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    17 mins             ██████████████░░░░░░░░░░░   55.17 % 
+Java                     12 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-IntelliJ IDEA            38 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                23 mins             ███████████████░░░░░░░░░░   61.47 % 
-HivisionIDPhotos-wechat-w14 mins             █████████░░░░░░░░░░░░░░░░   37.03 % 
-HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+workspace                17 mins             ██████████████░░░░░░░░░░░   55.17 % 
+HivisionIDPhotos-wechat-w14 mins             ███████████░░░░░░░░░░░░░░   44.82 % 
+HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (74.25%)
+⏱ AI Coding Time: 21 mins (68.84%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -145,12 +143,12 @@ Mac                      38 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 58 AI Prompts
+🧠 3 AI Sessions, 61 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+🔁 Iterative Prompter — average 20 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -167,5 +165,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 07:28:23 UTC
+ Last Updated on 15/09/2026 07:05:11 UTC
 <!--END_SECTION:waka-->
