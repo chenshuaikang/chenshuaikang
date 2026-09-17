@@ -116,26 +116,23 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     12 mins             ███████████████░░░░░░░░░░   60.77 % 
-Other                    6 mins              ████████░░░░░░░░░░░░░░░░░   30.28 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Java                     12 mins             ██████████████████████░░░   87.16 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HivisionIDPhotos-wechat-w14 mins             █████████████████░░░░░░░░   69.71 % 
-workspace                6 mins              ████████░░░░░░░░░░░░░░░░░   30.28 % 
-HivisionIDPhotos-wechat-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+HivisionIDPhotos-wechat-w14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (51.53%)
+⏱ AI Coding Time: 4 mins (30.47%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -143,12 +140,12 @@ Mac                      20 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 51 AI Prompts
+🧠 1 AI Sessions, 28 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
+🔁 Iterative Prompter — average 28 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -165,5 +162,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 07:06:15 UTC
+ Last Updated on 17/09/2026 07:03:46 UTC
 <!--END_SECTION:waka-->
