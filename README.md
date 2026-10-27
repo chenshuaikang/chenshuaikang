@@ -116,22 +116,43 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    36 mins             ████████████████░░░░░░░░░   64.58 % 
+Java                     15 mins             ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+xian                     27 mins             ████████████░░░░░░░░░░░░░   47.36 % 
+xiaobu-homework-api      19 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
+workspace                9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 37 mins (65.74%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 20 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 358 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,5 +168,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 07:20:02 UTC
+ Last Updated on 27/10/2026 07:11:44 UTC
 <!--END_SECTION:waka-->
