@@ -71,15 +71,15 @@
    ---
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 67.8 kB Used in GitHub's Storage 
+> 📦 67.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2026
  > 
@@ -116,29 +116,30 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    36 mins             ████████████████░░░░░░░░░   64.58 % 
-Java                     15 mins             ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    47 mins             █████████████░░░░░░░░░░░░   52.95 % 
+Java                     33 mins             █████████░░░░░░░░░░░░░░░░   37.82 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-IntelliJ IDEA            57 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-xian                     27 mins             ████████████░░░░░░░░░░░░░   47.36 % 
-xiaobu-homework-api      19 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
-workspace                9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+xian                     27 mins             ████████░░░░░░░░░░░░░░░░░   30.15 % 
+workspace                20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+xiaobu-homework-api      19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+kids-tracker-server      18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (65.74%)
+⏱ AI Coding Time: 51 mins (57.21%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -146,12 +147,12 @@ Mac                      57 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 20 AI Prompts
+🧠 3 AI Sessions, 40 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 358 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 377 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -168,5 +169,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 07:11:44 UTC
+ Last Updated on 28/10/2026 07:50:30 UTC
 <!--END_SECTION:waka-->
