@@ -116,46 +116,46 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 43 mins        ███████████████░░░░░░░░░░   58.06 % 
-Java                     1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   37.27 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    1 hr 50 mins        ███████████████░░░░░░░░░░   59.42 % 
+Java                     1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.54 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 57 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-workspace                52 mins             ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-kids-tracker-server      51 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-xian                     50 mins             ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-xiaobu-homework-api      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+workspace                59 mins             ████████░░░░░░░░░░░░░░░░░   32.15 % 
+xian                     51 mins             ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+kids-tracker-server      51 mins             ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+xiaobu-homework-api      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Mac                      2 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (78.39%)
+⏱ AI Coding Time: 2 hrs 28 mins (79.4%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 102 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 201,739 Input Tokens, 4,445 Output Tokens
+🔤 311,173 Input Tokens, 7,064 Output Tokens
 
-💵 $0.51 Estimated AI Cost This Week
+💵 $0.82 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 74 AI Prompts
+🧠 9 AI Sessions, 84 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      102 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 364 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -171,5 +171,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 07:58:40 UTC
+ Last Updated on 31/10/2026 07:54:19 UTC
 <!--END_SECTION:waka-->
